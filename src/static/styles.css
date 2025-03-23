@@ -1,5 +1,106 @@
-* {
-  box-sizing: border-box;
+* {* {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}  // ...existing code...footer {}  // ...existing code....hidden {}  // ...existing code....info {}  // ...existing code....error {}  // ...existing code....success {}  // ...existing code....message {}  // ...existing code...button:hover {}  // ...existing code...button {}  // ...existing code....form-group select {.form-group input,}  // ...existing code....form-group label {}  // ...existing code....form-group {}  display: inline-block;  margin-right: 5px;  padding: 2px 5px;  border-radius: 5px;  background-color: #e0f7fa;.participant {}  // ...existing code....activity-card p strong {}  // ...existing code....activity-card p {}  // ...existing code....activity-card h4 {}  // ...existing code....activity-card {}  // ...existing code...section h3 {}  // ...existing code...section {}  }    // ...existing code...  main {@media (min-width: 768px) {}  // ...existing code...main {}  // ...existing code...header h1 {}  // ...existing code...header {}  // ...existing code...body {}  // ...existing code...  box-sizing: border-box;
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
@@ -72,6 +173,12 @@ section h3 {
 
 .activity-card p {
   margin-bottom: 8px;
+}
+
+.activity-card p strong {
+  display: block;
+  margin-top: 10px;
+  color: #333;
 }
 
 .form-group {
